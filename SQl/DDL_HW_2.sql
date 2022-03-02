@@ -309,5 +309,12 @@ values (70,15),
 
 	select * from roles_employee 
 		
+	
+==============================================================================================================
 		
+select * from employees;
+select * from salary_1;
+select * from roles_1;
+select * from employee_salary;
+select * from roles_employee ;
 
